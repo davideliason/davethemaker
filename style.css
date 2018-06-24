@@ -1,12 +1,3 @@
-.yellowText {
-    color: "yellow";
-}
-
-ul {
-	list-style-type: none;
-}
-
-li {
-	padding: 20px;
-	display: inline;
+.smallerFont {
+	font-size: .75em;
 }
